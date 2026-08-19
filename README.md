@@ -4,3 +4,5 @@ I have started my learning AI journey; I will upload every practice project here
 Projects
 1. Sleep Doom Scrolling - Data Visualization and Machine Learning
 2. Student Performance - Data Visualization
+3. Simple Linear Regression Practice
+4. Polynomial Regression Practice
